@@ -2,7 +2,7 @@ print("Hello World")
 
 print("The answer to 2+2 is 4")
 
-def foo(x, y):
-    return x + y
+def foo(x):
+    return 3*x
 
-print(foo(3, 4))
+print(foo(3))
